@@ -1,0 +1,28 @@
+{
+    "cSpell.words": [
+        "aiohttp",
+        "asyncio",
+        "beautifulsoup",
+        "caliber",
+        "Dawid",
+        "dotenv",
+        "HUGGINGFACE",
+        "langchain",
+        "langgraph",
+        "Mixtral",
+        "mpnet",
+        "mypy",
+        "Naude",
+        "OPENROUTER",
+        "pathfindr",
+        "pydantic",
+        "pyproject",
+        "Referer",
+        "selectbox",
+        "Streamlit",
+        "workstreams"
+    ],
+    "markdownlint.config" : {
+        "MD036": false
+    }
+}
